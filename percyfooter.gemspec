@@ -5,8 +5,8 @@ Gem::Specification.new do |spec|
   spec.version     = Percyfooter::VERSION
   spec.authors     = [ "C Barton" ]
   spec.email       = [ "cbarto8@emory.edu" ]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Percyfooter."
+  spec.homepage    = "https://github.com/CB987/percy-very-small-footer"
+  spec.summary     = "working on making all my footer unification dreams come true"
   spec.description = "Percy the very small footer engine."
   spec.license     = "MIT"
 
