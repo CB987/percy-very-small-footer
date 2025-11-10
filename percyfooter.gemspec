@@ -16,7 +16,6 @@ Gem::Specification.new do |spec|
 
   spec.metadata["homepage_uri"] = "https://github.com/CB987/percy-very-small-footer"
   spec.metadata["source_code_uri"] = "https://github.com/CB987/percy-very-small-footer"
-  spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
 
   spec.files = Dir.chdir(File.expand_path(__dir__)) do
     Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
